@@ -12,6 +12,7 @@ img {
     border-radius: 20px;
     width: 320px;
     height: 320px;
+    
 }
 
 #cat {
@@ -45,6 +46,10 @@ a {
 text-decoration: none;
 display: block;
 border-radius: 5px;
+}
+
+a:hover {
+    color: rgb(174, 140, 209);
 }
 
 footer {
